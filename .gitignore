@@ -1,0 +1,25 @@
+# Poppler
+Release-*/
+poppler*/
+*.exe
+*.dll
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Credenciais e configurações pessoais
+.env
+.env.*
+*.pem
+*.key
+credentials*.json
+secrets*.json
+.vscode/
+.idea/
+
+# Arquivos desnecessários
+fontes/pagina_loa.html
+*.zip

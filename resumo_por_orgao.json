@@ -1,0 +1,80 @@
+[
+  {
+    "codigo_orgao": "09",
+    "orgao": "Secretaria Municipal de Educação",
+    "dotacao_inicial_reais": "93710090.16",
+    "percentual_do_executivo": "26.93"
+  },
+  {
+    "codigo_orgao": "11",
+    "orgao": "Secretaria Municipal de Saúde",
+    "dotacao_inicial_reais": "82045629.17",
+    "percentual_do_executivo": "23.58"
+  },
+  {
+    "codigo_orgao": "99",
+    "orgao": "Operações Especiais",
+    "dotacao_inicial_reais": "54476184.95",
+    "percentual_do_executivo": "15.66"
+  },
+  {
+    "codigo_orgao": "06",
+    "orgao": "Secretaria Municipal de Obras, Planejamento e Mobilidade Urbana",
+    "dotacao_inicial_reais": "49309205.45",
+    "percentual_do_executivo": "14.17"
+  },
+  {
+    "codigo_orgao": "03",
+    "orgao": "Sec Munic Administração e Desenvolvimento Humano",
+    "dotacao_inicial_reais": "14232500.00",
+    "percentual_do_executivo": "4.09"
+  },
+  {
+    "codigo_orgao": "10",
+    "orgao": "Secretaria Municipal de Desenvolvimento Social",
+    "dotacao_inicial_reais": "13386036.28",
+    "percentual_do_executivo": "3.85"
+  },
+  {
+    "codigo_orgao": "08",
+    "orgao": "Secretaria Municipal de Cidadania",
+    "dotacao_inicial_reais": "12420357.30",
+    "percentual_do_executivo": "3.57"
+  },
+  {
+    "codigo_orgao": "05",
+    "orgao": "Secretaria Municipal de Finanças e Orçamento",
+    "dotacao_inicial_reais": "8679615.12",
+    "percentual_do_executivo": "2.49"
+  },
+  {
+    "codigo_orgao": "15",
+    "orgao": "Secretaria Municipal de Agricultura e Bem-estar animal",
+    "dotacao_inicial_reais": "5847200.00",
+    "percentual_do_executivo": "1.68"
+  },
+  {
+    "codigo_orgao": "02",
+    "orgao": "Gabinete da Prefeita",
+    "dotacao_inicial_reais": "4028500.00",
+    "percentual_do_executivo": "1.16"
+  },
+  {
+    "codigo_orgao": "12",
+    "orgao": "Secretaria Municipal de Cultura e Turismo",
+    "dotacao_inicial_reais": "3502056.53",
+    "percentual_do_executivo": "1.01"
+  },
+  {
+    "codigo_orgao": "04",
+    "orgao": "Procuradoria-Geral do Município",
+    "dotacao_inicial_reais": "3313346.40",
+    "percentual_do_executivo": "0.95"
+  },
+  {
+    "codigo_orgao": "14",
+    "orgao": "Secretaria Municipal de Desenvolvimento Econômico e Meio Ambiente",
+    "dotacao_inicial_reais": "2992000.00",
+    "percentual_do_executivo": "0.86"
+  }
+]

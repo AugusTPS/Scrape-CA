@@ -1,0 +1,18 @@
+{
+  "pagina_alvo": "https://cruzalta.atende.net/transparencia/item/loa-lei-orcamentaria-anual",
+  "coletado_em_utc": "2026-10-28T16:27:53.807914+00:00",
+  "arquivos": [
+    {
+      "nome_portal": "loa 2025 - parte 2.pdf",
+      "arquivo_local": "loa_2025_anexos.pdf",
+      "url": "https://cruzalta.atende.net/ged/d/5041A906275783BB2E92B744BC9A909A20DF3C24",
+      "sha256": "5cd0674f4e835b1041422a18bcbda4eecb9380257449cc59fc8303cc31f23f47"
+    },
+    {
+      "nome_portal": "lei 3738 - loa 2025.pdf",
+      "arquivo_local": "lei_3738.pdf",
+      "url": "https://cruzalta.atende.net/ged/d/6A7AC43E7649E25255FBE2D77F9F15F065EA047F",
+      "sha256": "56400f02ceb03d9984af3643b721dfc62845eb1b278acc5cc2c48ba038e7693f"
+    }
+  ]
+}
